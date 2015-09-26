@@ -1,0 +1,16 @@
+﻿Сборка начата 26.09.2015 19:59:35.
+     1>Проект "D:\Проги\С#\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OSiSP_Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\WinPrograms\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PaintDemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OSiSP_Lab1.cpp
+         OSiSP_Lab1.cpp
+       Link:
+         D:\WinPrograms\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Проги\С#\OSiSP_Lab1\Debug\PaintDemo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Проги\С#\OSiSP_Lab1\Debug\PaintDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Проги\С#\OSiSP_Lab1\Debug\PaintDemo.lib" /MACHINE:X86 Debug\OSiSP_Lab1.res
+         Debug\OSiSP_Lab1.obj
+         Debug\stdafx.obj
+         OSiSP_Lab1.vcxproj -> D:\Проги\С#\OSiSP_Lab1\Debug\PaintDemo.exe
+     1>Сборка проекта "D:\Проги\С#\OSiSP_Lab1\OSiSP_Lab1\OSiSP_Lab1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.82
